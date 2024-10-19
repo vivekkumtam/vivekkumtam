@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm ... from ....India<br><br>- 🔭 I’m currently a...graduate student at University of Wisconsin Milwaukee<br>- 📚 I'm currently learning ...Data Analytics, AWS & Project Management<br>- ⚡ In my free time I ... like to play cricket, watch anime, cook food and travel.</p>
+<p align="left">I'm from India<br><br>- 🔭 I’m currently a...graduate student at University of Wisconsin Milwaukee<br>- 📚 I'm currently learning ...Data Analytics, AWS & Project Management<br>- ⚡ In my free time I ... like to play cricket, watch anime, cook food and travel.</p>
 
 ###
 
